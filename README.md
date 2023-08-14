@@ -1,1 +1,1 @@
-# tarea-del-juego-de-ahoracado
+# Ultimo partcial
